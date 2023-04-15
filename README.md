@@ -1,6 +1,6 @@
 # Power BI Dashboards
 
-This repository contains a collection of Power BI dashboards that I have created. These dashboards are designed to provide users with insights and analysis of various data sets.
+This repository contains a collection of Power BI dashboards that I have created. These dashboards are designed to provide users with insights and analysis of various data sets. Interactive versions can be found under Dashboard List, whereas pdf versions are stored in this repository.
 
 ## Dashboard List
 
